@@ -1,0 +1,1 @@
+powershell -noprofile -command "&{ start-process powershell -ArgumentList '-noprofile -file \"C:\Users\sjhad\OneDrive - CAE TECHNOLOGY SERVICES LIMITED\Scripts\Cato.ps1\"' -verb RunAs}"
