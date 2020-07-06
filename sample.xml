@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<People>
+    <Person Id="1">
+        <FirstName>Stuart</FirstName>
+        <LastName>Haddow</LastName>
+        <DOB>18/7/79</DOB>
+    </Person>
+    <Person Id="2">
+        <FirstName>Suzi</FirstName>
+        <LastName>Impett</LastName>
+        <DOB>10/9/84</DOB>
+    </Person>
+    <Person Id="3">
+        <FirstName>Matilda</FirstName>
+        <LastName>Haddow</LastName>
+        <DOB>21/5/17</DOB>
+    </Person>
+</People>
