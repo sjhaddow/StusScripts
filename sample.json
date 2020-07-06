@@ -1,0 +1,22 @@
+{"People":
+	[
+		{
+			"Id": "1",
+			"FirstName": "Stuart",
+			"LastName": "Haddow",
+			"Email": "sjhaddow@gmail.com"
+		},
+		{
+			"Id": "2",
+			"FirstName": "Suzi",
+			"LastName": "Impett",
+			"Email": "suziimpett@hotmail.co.uk"
+        }
+        {
+			"Id": "3",
+			"FirstName": "Matilda",
+			"LastName": "Haddow",
+			"Email": "tillyroseih@gmail.com"
+        }
+	]
+}
